@@ -1,2 +1,2 @@
 # Sampl
-Echantillonneur Esp32 / Affichege web
+Echantillonneur Esp32 / Affichage web
